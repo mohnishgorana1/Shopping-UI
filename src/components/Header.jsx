@@ -2,7 +2,7 @@ import {Link, NavLink} from 'react-router-dom'
 
 function Header() {
   return (
-    <div>Header</div>
+    <header>HEADER</header>
   )
 }
 
